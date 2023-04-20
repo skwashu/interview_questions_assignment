@@ -1,0 +1,47 @@
+Q:-Find and read 20 interview questions for Data Types, Operators, Conditional Statements, Looping Statements, Functions.
+
+INTERVIEW QUESTION FOR DATA TYPE PYTHON:
+
+Q1.What are the built-in data types in Python?
+Q2.What is the difference between a list and a tuple in Python?
+Q3.How do you convert a string to an integer in Python?
+Q4.What is the difference between a set and a dictionary in Python?
+Q5.What is the difference between a shallow copy and a deep copy in Python?
+
+
+INTERVIEW QUESTION FOR OPERATORS PYTHON:
+
+Q1.What are the different types of operators in Python?
+Q2.What is the use of the 'in' operator in Python?
+Q3.What is the use of the 'not' operator in Python?
+Q4.How do you concatenate two strings in Python?
+Q5.What is the use of the 'and' and 'or' operators in Python?
+
+
+INTERVIEW QUESTION FOR CONDITIONAL STATEMENTS PYTHON:
+
+Q1.What are the different types of conditional statements in Python?
+Q2.What is the syntax of the 'if' statement in Python?
+Q3.What is the use of the 'elif' statement in Python?
+Q4.What is the syntax of the 'else' statement in Python?
+Q5.How do you use the 'and' and 'or' operators in Python conditional statements?
+
+
+
+INTERVIEW QUESTION FOR LOOPING STATEMENTS PYTHON:
+
+Q1.What is the syntax of the 'for' loop in Python?
+Q2.What are the different types of loops in Python?
+Q3.How do you iterate over a dictionary in Python?
+Q4.What is the use of the 'range' function in Python 'for' loops?
+Q5.How do you break out of a loop in Python?
+
+
+
+INTERVIEW QUESTION FOR LOOPING STATEMENTS PYTHON:
+
+Q1.What is a function in Python?
+Q2.What is the syntax to define a function in Python?
+Q3.What is the use of the 'return' statement in Python functions?
+Q4.What is the difference between 'return' and 'print' statements in Python?
+Q5.What is a lambda function in Python?
